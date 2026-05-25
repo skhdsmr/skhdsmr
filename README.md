@@ -4,10 +4,11 @@
 
 <p align="center">
   <a href="https://solved.ac/profile/skhdsmr" target="_blank">
-    <img src="./solvedac-skhdsmr-v1.svg" alt="My BOJ Final Profile" height="180" style="margin-right: 10px;" />
+    <img src="./solvedac-skhdsmr-v1.svg" alt="My BOJ Final Profile" height="165" />
   </a>
+  &nbsp;
   <a href="https://solved.ac/profile/skhdsmr" target="_blank">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=skhdsmr" alt="My BOJ Final Tier" height="180" />
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=skhdsmr" alt="My BOJ Final Tier" height="165" />
   </a>
 </p>
 
