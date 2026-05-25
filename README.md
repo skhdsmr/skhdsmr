@@ -1,3 +1,1 @@
-## 🏆 Baekjoon & Solved.ac Final Record
-
-![My BOJ Final Tier](./solvedac-skhdsmr-v1.svg)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=본인의 백준 ID)](https://solved.ac/본인의 백준 ID/)
